@@ -1,5 +1,3 @@
-### README.md
-
 # Portfolio Optimization Project
 
 ## Overview
